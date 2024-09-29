@@ -6,3 +6,11 @@
      border-radius: 10px;
      text-transform: capitalize;
 }
+.anotherbtn{
+    margin: 30px;
+    color: white;
+     background-color: rgb(222, 148, 58); 
+     border: 2px solid rgb(222, 148, 58);
+     border-radius: 10px;
+     text-transform: capitalize; 
+}
